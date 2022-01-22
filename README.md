@@ -7,7 +7,4 @@ I'm a developer and software engineer living in the UK
 * I enjoy contributiong to the [Lichess](https://github.com/ornicar/lichess) project
 * I had fun creating [an Agent Based Computational Economic Model](https://github.com/dignissimus/ABM) a while ago
 
-# Select interests
-* Chess
-* Type theory
-* Macroecnomics
+Check out my pinned repositories for some projects I've made
