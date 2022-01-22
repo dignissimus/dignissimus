@@ -1,4 +1,4 @@
-### Hey! 👋
+## Hey there!
 
 I'm a developer and software engineer living in the UK
 
