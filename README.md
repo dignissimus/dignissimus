@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**dignissimus/dignissimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and software engineer living in the UK
 
-Here are some ideas to get you started:
+# About me
+* I’m the developer of [Cactool](https://github.com/cactool/cactool) for research in the social sciences
+* I enjoy contributiong to the [Lichess](https://github.com/ornicar/lichess) project
+* I had fun creating [an Agent Based Model](https://github.com/dignissimus/ABM) a while ago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Select interests
+* Chess
+* Type theory
+* Macroecnomics
