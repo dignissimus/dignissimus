@@ -8,3 +8,6 @@ I'm a developer living in the UK and I'm about to start work as a Computer Scien
 * I had fun creating [an Agent Based Computational Economic Model](https://github.com/dignissimus/ABM) a while ago
 
 Check out my pinned repositories for some of the projects I've made
+
+# Support
+You can support my open source work on [Patreon](https://patreon.com/sam_ezeh)
