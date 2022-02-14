@@ -10,4 +10,4 @@ I'm a developer living in the UK and I'm about to start work as a Computer Scien
 Check out my pinned repositories for some of the projects I've made
 
 # Support
-You can support my open source work on [Patreon](https://patreon.com/sam_ezeh)
+You can support my open source work on [Liberapay](https://liberapay.com/dignissimus)
