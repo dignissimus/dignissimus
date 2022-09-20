@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm a developer living in the UK and I'm working as a Computer Scientist at [Netcraft](https://www.netcraft.com/).
+I'm a developer living in the UK and previously working as a Computer Scientist at [Netcraft](https://www.netcraft.com/) before moving on to study Computer Science at [Durham University](https://www.durham.ac.uk).
 
 # About me
 * I’m the developer of [Cactool](https://github.com/cactool/cactool) for research in the social sciences
