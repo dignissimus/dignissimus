@@ -7,6 +7,6 @@ I previously interned at [Google](https://about.google) writing software and at 
 # About me
 * I’m the developer of [Cactool](https://github.com/cactool/cactool) for research in the social sciences
 * I'm a developer for the [Lichess](https://github.com/lichess-org/lila) website
-* In the summer, I'll intern as a [Quantitative Developer](https://en.wikipedia.org/wiki/Quantitative_analysis_(finance)) on the [Electronic Market Making](https://en.wikipedia.org/wiki/Market_maker) team at [Qube Research & Technologies](https://www.qube-rt.com/)
+* During the summer, I interned as a [Quantitative Developer](https://en.wikipedia.org/wiki/Quantitative_analysis_(finance)) on the [Electronic Market Making](https://en.wikipedia.org/wiki/Market_maker) team at [Qube Research & Technologies](https://www.qube-rt.com/)
 
 Check out my pinned repositories for some of the projects I've made and worked on
